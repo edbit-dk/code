@@ -1,0 +1,108 @@
+[11-Feb-2021 16:24:10 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'karim' (T_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 1
+[11-Feb-2021 16:24:11 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'karim' (T_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 1
+[11-Feb-2021 16:24:15 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'karim' (T_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 1
+[11-Feb-2021 16:24:16 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'karim' (T_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 1
+[11-Feb-2021 16:24:16 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'karim' (T_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 1
+[11-Feb-2021 16:24:16 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'karim' (T_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 1
+[11-Feb-2021 16:25:42 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"karims hund"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[11-Feb-2021 16:25:43 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"karims hund"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[11-Feb-2021 16:25:45 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"karims hund"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[11-Feb-2021 16:25:45 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"karims hund"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[11-Feb-2021 16:25:45 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"karims hund"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[11-Feb-2021 16:25:45 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"karims hund"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[11-Feb-2021 16:25:45 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"karims hund"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[11-Feb-2021 16:25:45 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"karims hund"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[11-Feb-2021 16:25:46 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"karims hund"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[11-Feb-2021 16:25:47 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"karims hund"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[11-Feb-2021 16:25:47 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"karims hund"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[11-Feb-2021 16:25:56 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 6
+[11-Feb-2021 16:25:56 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 6
+[11-Feb-2021 16:25:56 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 6
+[11-Feb-2021 16:25:57 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 6
+[11-Feb-2021 16:25:57 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 6
+[11-Feb-2021 16:25:57 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 6
+[11-Feb-2021 16:25:57 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 6
+[11-Feb-2021 16:25:57 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 6
+[12-Feb-2021 15:58:12 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[12-Feb-2021 15:58:37 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[12-Feb-2021 15:58:38 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[12-Feb-2021 15:58:39 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[12-Apr-2021 11:31:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: random_bytes() expects exactly 1 argument, 0 given in /home/edbitdk/editor.datalaere.dk/server/code-editable.php:2
+Stack trace:
+#0 /home/edbitdk/editor.datalaere.dk/server/code-editable.php(2): random_bytes()
+#1 {main}
+  thrown in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 2
+[12-Apr-2021 11:31:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: random_bytes() expects exactly 1 argument, 0 given in /home/edbitdk/editor.datalaere.dk/server/code-editable.php:2
+Stack trace:
+#0 /home/edbitdk/editor.datalaere.dk/server/code-editable.php(2): random_bytes()
+#1 {main}
+  thrown in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 2
+[12-Apr-2021 11:31:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: random_bytes() expects exactly 1 argument, 0 given in /home/edbitdk/editor.datalaere.dk/server/code-editable.php:2
+Stack trace:
+#0 /home/edbitdk/editor.datalaere.dk/server/code-editable.php(2): random_bytes()
+#1 {main}
+  thrown in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 2
+[05-Dec-2022 08:43:41 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[05-Dec-2022 08:43:48 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[05-Dec-2022 08:44:39 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"Hello neighbours"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 6
+[05-Dec-2022 08:44:40 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '"Hello neighbours"' (T_CONSTANT_ENCAPSED_STRING) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 6
+[11-Jan-2023 15:12:37 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[11-Jan-2023 15:12:39 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[14-Jan-2023 19:30:07 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:30:08 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:30:09 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:30:10 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:30:10 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:30:10 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:30:10 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:30:59 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:31:03 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:31:04 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:31:05 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:31:05 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:31:05 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:31:06 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[14-Jan-2023 19:31:06 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[15-Mar-2023 07:59:07 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '}' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[15-Mar-2023 07:59:07 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '}' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[15-Mar-2023 07:59:09 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '}' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[21-Mar-2023 13:05:46 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:47 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:47 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:47 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:47 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:47 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:48 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:48 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:48 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:48 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:49 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:49 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:49 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:49 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:50 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:50 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:50 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:50 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:50 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Mar-2023 13:05:51 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Jun-2023 08:56:52 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Jun-2023 08:56:53 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Jun-2023 08:56:53 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Jun-2023 08:56:54 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Jun-2023 08:56:54 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Jun-2023 08:57:00 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Jun-2023 08:58:18 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?>' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Jun-2023 08:58:19 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?>' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Jun-2023 08:58:26 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?>' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Jun-2023 08:58:26 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?>' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 4
+[21-Jun-2023 08:58:41 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?>' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[21-Jun-2023 08:58:42 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?>' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[21-Jun-2023 08:58:42 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?>' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[21-Jun-2023 08:58:42 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?>' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 5
+[29-Sep-2023 19:27:00 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[29-Sep-2023 19:27:00 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected '?' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[29-Sep-2023 19:28:03 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'love' (T_STRING), expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[29-Sep-2023 19:28:04 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected 'love' (T_STRING), expecting ';' or ',' in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 3
+[19-Jan-2025 22:01:24 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected token "return" in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 2
+[19-Jan-2025 22:01:26 Europe/Copenhagen] PHP Parse error:  syntax error, unexpected token "return" in /home/edbitdk/editor.datalaere.dk/server/code-editable.php on line 2
